@@ -2,9 +2,9 @@
 Content about my study flow for getting OCA.
 Here goes some notes and code about my study journey
 
-## Study topics 
+## Study topics
 
-1. Java basics
+1. [Java Basics](./chapter1/CHAPTER1.md)
 - The structures of a Java class and a source code file
 - Executable Java Applications
 - Java packages
