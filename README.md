@@ -4,7 +4,7 @@ Here goes some notes and code about my study journey
 
 ## Study topics
 
-1. [Java Basics](./chapter1/CHAPTER1.md)
+1. [Java Basics](./chapter1/CHAPTER1.MD)
 - The structures of a Java class and a source code file
 - Executable Java Applications
 - Java packages
