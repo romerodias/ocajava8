@@ -46,7 +46,7 @@ Next it executes the print statement in the instance initilizer of line 3. Once 
 ### Primitive Data types
 
 Keyword | Type | Example
---|
+--|--|--
 boolean | true or false | true
 byte | 8-bit integral value | -128 to 127
 short | 16-bit integral value | 123
